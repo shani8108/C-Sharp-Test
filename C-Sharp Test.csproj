@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="exercise 10.cs" />
+    <Compile Include="exercise 11-Project.cs" />
     <Compile Include="exercise 6.cs" />
     <Compile Include="exercise 7.cs" />
     <Compile Include="exercise 8.cs" />
